@@ -30,7 +30,7 @@ This project is an ASP.NET Core Web API that provides functionality to block and
     }
 }
 3. Restore the dependencies and build the project:
- dotnet restore
- dotnet build
+ dotnet restore ,
+ dotnet build ,
  dotnet run
 
