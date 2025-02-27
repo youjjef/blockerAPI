@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "//F5j9Vcj67sD8lxHeoHC0Y0un/eI8kttnUo4DHcZVE=",
+  "Source": "BlockerAPI",
+  "BasePath": "_content/BlockerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
